@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/main.cpp
+iostream
+-
+simplex.h
+/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.h
+
+/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.cpp
+simplex.h
+/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.h
+iostream
+-
+cstdlib
+-
+stdexcept
+-
+cmath
+-
+vector
+-
+fstream
+-
+
+/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.h
+vector
+-
+fstream
+-
+

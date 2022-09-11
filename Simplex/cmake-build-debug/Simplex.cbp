@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Simplex"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simplex">
+				<Option output="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Simplex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simplex"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Simplex/fast">
+				<Option output="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Simplex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/."/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 Simplex/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/main.cpp">
+			<Option target="Simplex"/>
+		</Unit>
+		<Unit filename="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.cpp">
+			<Option target="Simplex"/>
+		</Unit>
+		<Unit filename="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.h">
+			<Option target="Simplex"/>
+		</Unit>
+		<Unit filename="/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1590047146 source:/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/main.cpp
+	<iostream>
+	"simplex.h"
+
+1589896088 /home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.h
+	<vector>
+	<fstream>
+
+1590047134 source:/home/kiradam/uni/prog2/nagy_hazi_lead/Simplex/simplex.cpp
+	"simplex.h"
+	<iostream>
+	<cstdlib>
+	<stdexcept>
+	<cmath>
+	<vector>
+	<fstream>
+
